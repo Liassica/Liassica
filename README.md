@@ -6,4 +6,4 @@ My public key fingerprint for Git commits is `83BE 3033 6164 B971 FA82  7036 0D3
 
 A few of my older commits will show as "unverified" on the GitHub UI because it took me way too long to realize I can set my email per-repo. If you check the commits manually you'll see they're me.
 
-Profile picture by [NomnomNami](https://nomnomnamiart.tumblr.com/post/170486687483/i-didnt-start-doodling-with-the-intention-of).
+Profile picture by [NomnomNami](https://nomnomnamiart.tumblr.com/post/736527045830557696/moxie-doodle-from-earlier-this-year).
